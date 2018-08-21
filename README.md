@@ -1,0 +1,2 @@
+# ProjectQuazarMaster
+Quazar
